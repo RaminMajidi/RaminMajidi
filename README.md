@@ -18,10 +18,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RaminMajidi.RaminMajidi&"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
