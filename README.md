@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm  Ramin Majidi<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning MERN STACK<br>-💻 I'm trying to learn new technologies. To face new challenges and try to solve them</p>
+<p align="left">I'm  Ramin Majidi<br><br>- 🔭 I’m working as FrontEnd Developer<br>- 📚 I'm currently learning MERN STACK<br>-💻 I'm trying to learn new technologies. To face new challenges and try to solve them</p>
 
 ###
 
