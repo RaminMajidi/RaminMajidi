@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm working as FrontEnd Developer in PartaCode<br>- 📚 I am currently improving my skills<br>-💻 I'm trying to learn new technologies. To face new challenges and try to solve them</p>
+<p align="left">- 🔭 I'm working as FrontEnd Developer in Noavaran<br>- 📚 I am currently improving my skills<br>-💻 I'm trying to learn new technologies. To face new challenges and try to solve them</p>
 
 ###
 
