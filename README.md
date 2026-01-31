@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">My name is Ramin and I'm a JavaScript Developer from Iran</p>
+<p align="left">My name is Ramin</p>
+
+###
+<p align="left">I'm a JavaScript Developer</p>
 
 ###
 
